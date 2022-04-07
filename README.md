@@ -1,6 +1,6 @@
 # iOS-Portfolio-Guntabonu22
 ## About Me
-My name is Sai Guntabonu, and I am currently a senior at Eden Prairie High School. Below, I will keep track of all of the major projects I've worked on. 
+My name is Sai Guntabonu, and I am currently a senior at Eden Prairie High School. Below, I will keep track of all of the major projects I've worked on for school. 
 
 Programming languages:
 MIT app inventor, Java, Swift, Python
@@ -11,6 +11,8 @@ AP CSP, AP CS Java, iOS App Development, University of Minnesota CSCI 1133, Adva
 ## Sai Guntabonu's projects
 
 ### 2022: [Knight](https://github.com/EPHS-iOS/knight.git)
+
+<img width="316" alt="Screen Shot 2022-04-06 at 9 46 58 PM" src="https://user-images.githubusercontent.com/59212272/162110241-4dc1b305-1370-468b-8cf7-4ba7a46f5e87.png">
 
 Knight is a metrovania game in progress. Using the same SpriteKit framework from Astro Portal, we are trying to create an open-world game. The end result will be a game similar to Hollow Knight. I am also excited to design autonomus bots that work as bosses and NPCs. I am looking to stay highly organized with the code and avoid redundancy. Again, one of the biggest challeneges will be creating art and other assets especially since Knight is a game that is reliant on combat animation. 
 
