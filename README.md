@@ -1,7 +1,7 @@
 # iOS-Portfolio-Guntabonu22
 Sai Guntabonu's projects
 
-2020:[Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
+2020: [Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
 
 Volcanic Panic is a game I made for class using java. Altough java's resources for game development are limited, I learned how Jframes can be used for gameplay and player physics.
 
