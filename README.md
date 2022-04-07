@@ -21,6 +21,7 @@ Volcanic Panic is a game I made for class using java. Java's resources for game 
 This was my introduction to app development, and I created two different calculator apps as final projects. The first is a general calculator, and the second is a more advanced calculator that solves (most) derivatives, finds discriminants, and solves quadratics. 
 
 
+## Experience
 
 Programming languages:
 MIT app inventor, Java, Swift, Python
