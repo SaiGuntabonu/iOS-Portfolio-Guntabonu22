@@ -8,7 +8,7 @@ MIT app inventor, Java, Swift, Python
 Computer Science Experience:
 AP CSP, AP CS Java, iOS App Development, University of Minnesota CSCI 1133, Advanced iOS App Development
 
-## Sai Guntabonu's projects
+## Sai Guntabonu's School Projects
 
 ### 2022: [Knight](https://github.com/EPHS-iOS/knight.git)
 
