@@ -22,6 +22,9 @@ Astro Portal is a platformer on the Apple [App Store](https://apps.apple.com/sr/
 
 ### 2020: [Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
 
+<img width="831" alt="Screen Shot 2022-04-06 at 9 44 49 PM" src="https://user-images.githubusercontent.com/59212272/162110007-26c3e749-4fcf-4b04-8912-d75c822d19dc.png">
+
+
 Volcanic Panic is a game I made for class using java. Java's resources for game development are limited, but I learned how Jframes can be used for gameplay and player physics.
 
 ### 2019: MIT App Inventor Apps 
