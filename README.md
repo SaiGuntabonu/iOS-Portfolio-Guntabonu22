@@ -5,8 +5,8 @@ My name is Sai Guntabonu, and I am currently a senior at Eden Prairie High Schoo
 Programming languages:
 MIT app inventor, Java, Swift, Python
 
-Computer Science classes:
-AP CSP, AP CS Java, iOS App Development, University of Minnesota CSCI 1133
+Computer Science Experience:
+AP CSP, AP CS Java, iOS App Development, University of Minnesota CSCI 1133, Advanced iOS App Development
 
 ## Sai Guntabonu's projects
 
