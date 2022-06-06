@@ -1,6 +1,6 @@
 # iOS-Portfolio-Guntabonu22
 ## About Me
-My name is Sai Guntabonu, and I am currently a senior at Eden Prairie High School. Below, I will keep track of all of the major projects I've worked on for school. 
+My name is Sai Guntabonu, and I am currently a senior at Eden Prairie High School. I will keep track of all of the major projects I've worked on for school below. 
 
 Programming languages:
 MIT app inventor, Java, Swift, Python
@@ -21,6 +21,7 @@ Knight is a metrovania game on the [App Store](https://apps.apple.com/tt/app/spe
 <img width="316" alt="Screen Shot 2022-04-06 at 9 41 29 PM" src="https://user-images.githubusercontent.com/59212272/162109635-6f534f59-cd96-42fc-83a7-aaa0e5e636f7.png">
 
 Astro Portal is a platformer on the Apple [App Store](https://apps.apple.com/sr/app/astro-portal/id1558706324). It is avaiable for iPhone, iPad, and has keyboard control support for macs with Apple Silicon chips. Astro Portal was my introduction to SpriteKit. In addition to SprietKit and GameplayKit, I learned how to compliment my code with Xcode's sks files. Another challenge with making Astro Portal was managing all of the assets required to make the game work. Astro Portal's music was digitally composed, and we made most of the art through Sketch. We also released two additional updates after the initial release on the App Store where we fixed bugs, reworked movement mechinacs to be more user-friendly, and added a personal best system. 
+![spelunkKnightSticker (1)](https://user-images.githubusercontent.com/59212272/172195494-08633c2a-59cf-44d6-98f4-8d2b4f018fcd.png)
 
 ### 2020: [Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
 
