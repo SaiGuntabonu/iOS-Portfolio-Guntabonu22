@@ -1,4 +1,4 @@
-# iOS-Portfolio-Guntabonu22
+# iOS Portfolio
 ## About Me
 My name is Sai Guntabonu, and I am currently a senior at Eden Prairie High School. I will keep track of all of the major projects I've worked on for school below. 
 
