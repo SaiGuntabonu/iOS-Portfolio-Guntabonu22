@@ -16,7 +16,7 @@ AP CSP, AP CS Java, iOS App Development, University of Minnesota CSCI 1133, Adva
 
 Knight is a metroidvania game on the [App Store](https://apps.apple.com/tt/app/spelunk-knight/id1612481607). Using the same SpriteKit framework from Astro Portal, we are trying to create an open-world game. The most challenging part of creating the game was coding the autonomus bots that work as bosses, NPCs, and enemies. We also created multiple abilities including a punch, sword, and projectile. I tried to stay highly organized with the code by avoiding redundancy. Again, one of the biggest challeneges was creating art and other assets especially since Knight is a game that is reliant on combat animation.
 
-<<img width="316" alt="Screen Shot 2022-04-06 at 9 41 29 PM" src ="https://user-images.githubusercontent.com/59212272/172195494-08633c2a-59cf-44d6-98f4-8d2b4f018fcd.png">
+<img width="316" alt="Screen Shot 2022-04-06 at 9 41 29 PM" src ="https://user-images.githubusercontent.com/59212272/172195494-08633c2a-59cf-44d6-98f4-8d2b4f018fcd.png">
 
 This is a promotional image that we made for Knight; it will soon be a sticker. This is one of the first times I got involved in marketing and design instead of just coding, and I enjoyed creating this art. 
 ### 2021: [Astro Portal](https://github.com/EPHS-iOS/Astro-Portal.git) 
